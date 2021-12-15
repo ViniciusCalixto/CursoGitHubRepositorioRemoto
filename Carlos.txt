@@ -1,2 +1,5 @@
 git config --global push.default simple
 git config --global core.editor notepad
+
+
+Nova linha para teste de pull
