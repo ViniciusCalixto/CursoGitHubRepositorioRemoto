@@ -1,5 +1,5 @@
 # Nomes de pessoas
 
-![../Imgs/DK.jpg]
+![CursoGitHubRepositorioRemoto/Imgs/DK.jpg]
 
 Este repositorio é voltado para testes no curso de gitHub
