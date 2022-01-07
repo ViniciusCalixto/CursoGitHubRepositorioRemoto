@@ -1,9 +1,10 @@
 # Nomes de pessoas
 
 
-![../Imgs/DK.jpg] teste mesma linha
+![teste mesma linha](./Imgs/DK.jpg)
 
-![CursoGitHubRepositorioRemoto/Imgs/DK.jpg]
+![teste mesma linha](DK.jpg)
+
 
 
 Este repositorio é voltado para testes no curso de gitHub
